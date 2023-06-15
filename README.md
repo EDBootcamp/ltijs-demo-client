@@ -5,8 +5,11 @@
   <a href="https://site.imsglobal.org/certifications/coursekey/ltijs"​ target='_blank'><img width="80" src="https://www.imsglobal.org/sites/default/files/IMSconformancelogoREG.png" alt="IMS Global Certified" border="0"></img></a>
 </div>
 
+## Adaptation for HPC-LTI
 
-# Ltijs Demo Client
+<hr>
+
+# Ltijs Demo Client 
 
 > Ltijs demo application client
 
